@@ -1,1 +1,7 @@
-console.log("hello World");
+
+
+function addNumbers(num1, num2){
+    return num1 + num2;
+}
+
+addNumbers(2, 3);
